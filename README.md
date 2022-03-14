@@ -9,7 +9,7 @@
 ## :clipboard: Example
 ```ts
 // Dependencies
-import {Deffy} from "https://deno.land/x/deffy/lib/typpy.ts"
+import {Deffy} from "https://deno.land/x/deffy/lib/deffy.ts"
 
 console.log(Deffy(undefined, "Hello World"));
 // => "Hello World"
